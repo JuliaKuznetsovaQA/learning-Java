@@ -12,7 +12,6 @@ public class Solution {
     public static int element = 5;
 
     public static void main(String[] args) {
-        //напишите тут ваш код
         int[] x = Arrays.copyOf(array, array.length);
         Arrays.sort(x);
         int y = Arrays.binarySearch(x, element);
