@@ -10,7 +10,6 @@ public class Solution {
     public static String[] strings;
 
     public static void main(String[] args) {
-        //напишите тут ваш код
         strings = new String[6];
         Scanner sc = new Scanner(System.in);
         for (int i = 0; i < 6; i++) {
