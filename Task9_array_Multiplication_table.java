@@ -9,7 +9,6 @@ public class Solution {
     public static int[][] MULTIPLICATION_TABLE;
 
     public static void main(String[] args) {
-        //напишите тут ваш код
         MULTIPLICATION_TABLE = new int[10][10];
         for (int i = 0; i <10; i++) {
             for (int n = 0; n < 10; j++) {
