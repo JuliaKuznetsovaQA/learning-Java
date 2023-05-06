@@ -11,7 +11,6 @@ public class Solution {
     }
 
     public static void signIn(String username){
-        //напишите тут ваш код
         if (username == "user") {
             return;
         }
