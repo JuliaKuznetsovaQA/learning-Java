@@ -1,8 +1,3 @@
-package com.javarush.task.pro.task06.task0613;
-
-/* 
-Города-гиганты
-*/
 
 public class Solution {
     public static String city = "Токио";
