@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task08.task0804;
-
 /* 
 Randomizer
 */
